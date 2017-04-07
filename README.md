@@ -1,2 +1,2 @@
 # HelloFine
-What a wonderfuul day.
+What a wonderful day.
